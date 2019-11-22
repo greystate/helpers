@@ -54,7 +54,7 @@ function grabAll(source, context = document) {
 	}
 }
 
-// Export all functions by name so they can be imported individually
+// Export all the functions
 
 export { grabElement, grabAll }
 
